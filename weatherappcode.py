@@ -1,7 +1,7 @@
 import requests
 import calendar
 
-api_key = 'a87495e93eaf002331038fc91574ab86'
+api_key = 'API key'
 api_call = 'https://api.openweathermap.org/data/2.5/forecast?appid=' + api_key
 
 running = True
